@@ -1,0 +1,49 @@
+body{
+	background-color: green;
+	max-width: 800px
+	margin: 0;
+	font-family: "Orbitron", sans-serif;
+}
+header{
+	text-align: center;
+	background-image: url(https://ssb.wiki.gallery/images/thumb/0/04/SSBU-Green_Hill_Zone.png/1200px-SSBU-Green_Hill_Zone.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding-top: 50px;
+}
+
+header h1{
+	color: yellow;
+	font-size: 40px;
+}
+header img{
+	border-radius: 100px;
+	width: 300px;
+	border: 5px solid yellow;
+}
+
+h2{
+	color: yellowgreen;
+}
+
+main{
+	text-align: center;
+	color: sandybrown;
+	font-size: 20px;
+}
+
+main img:hover{
+-webkit-transform: scaleX(-1);
+transform: scaleX(-1);
+}
+
+
+footer{
+	text-align: center;
+	padding-bottom: 50px ;
+}
+
+footer img{
+	width: 100%;
+	height: auto;
+}
